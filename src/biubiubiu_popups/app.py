@@ -1,6 +1,6 @@
 import tkinter as tk
 import random
-import argparse
+import argparse 
 
 # ====== 顶部默认参数（可被命令行覆盖） ======
 DEFAULT_POPUP_COUNT = 99      # 计划创建的弹窗数量
