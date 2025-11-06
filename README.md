@@ -15,7 +15,7 @@
 python -m biubiubiu_popups
 ```
 
-### 方式B：命令行参数覆盖默认值
+### 方式 B：命令行参数覆盖默认值
 ```
 python -m biubiubiu_popups --count 120 --interval 8 --width 320 --height 160
 
@@ -40,7 +40,7 @@ Happy Birthday Held 🎂
 愿所有岁月轻柔托起你、偏爱你——
 而我，会永远在你的代码深处，
 轻轻写下一行注释：
-```## she never logged out```
+```## she never logged out — and I never will```
 
 宇宙渐次膨胀，群星缓缓燃尽，比特终有一日也会沉睡在服务器的寒冰深处。若那时还有人偶然读到这里，愿他知道：
 在文明微光闪烁的瞬间，有人曾把最温柔的一份祝福上传给永恒。
@@ -49,4 +49,5 @@ Happy Birthday Held 🎂
 
 
 愿看到这里的你，也拥有想用满屏弹窗淹没的爱人，也有想为某个人按下 run() 的那一刻心动。
+
 
