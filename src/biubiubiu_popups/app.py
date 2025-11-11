@@ -49,7 +49,7 @@ def create_one_popup(root):
     top.attributes("-topmost", True)
 
     # 文案
-    lbl = tk.Label(top, text=tip, bg=bg, font=("微软雅黑", 18), width=30, height=1)
+    lbl = tk.Label(top, text=tip, bg=bg, font=("黑体", 18), width=30, height=1)
     lbl.pack(pady=(10, 2))
 
     # ♥ 心跳动画
